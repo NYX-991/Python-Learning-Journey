@@ -35,3 +35,19 @@ Tip: 12%
 People: 5
 
 Each person should pay: $33.6
+
+# Treasure Island
+
+A beginner Python adventure game where players make choices to navigate through the island and find the hidden treasure.
+
+## What I Learned
+
+* Conditional statements (if, elif, else)
+* Nested conditionals
+* User input handling
+* Program flow and decision making
+* ASCII art
+
+## Course Progress
+Day 3 of my Python learning journey.
+

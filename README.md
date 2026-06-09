@@ -51,3 +51,18 @@ A beginner Python adventure game where players make choices to navigate through 
 ## Course Progress
 Day 3 of my Python learning journey.
 
+# Rock Paper Scissors
+
+A beginner Python game where the player competes against the computer in a game of Rock, Paper, Scissors.
+
+## What I Learned
+
+* Lists
+* Random module
+* Conditional statements
+* User input handling
+* ASCII art
+
+## Course Progress
+
+Day 4 of my Python learning journey.

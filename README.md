@@ -66,3 +66,19 @@ A beginner Python game where the player competes against the computer in a game 
 ## Course Progress
 
 Day 4 of my Python learning journey.
+
+# Password Generator
+
+A beginner Python program that generates secure and random passwords based on the user’s preferences.
+
+## What I Learned
+
+* For loops
+* Lists
+* The random module
+* List manipulation
+* String concatenation
+
+## Course Progress
+
+Day 5 of my Python learning journey.

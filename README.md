@@ -82,3 +82,16 @@ A beginner Python program that generates secure and random passwords based on th
 ## Course Progress
 
 Day 5 of my Python learning journey.
+
+# Day 6 - Functions
+
+## Today I learned:
+- How to define functions using def
+- How to call functions
+- Code reusability
+- Using functions to solve maze problems in Reeborg's World
+
+## Example:
+Created a custom turn_right() function and used it to solve a maze using the right-hand rule algorithm.
+
+Day 6 of my Python learning journey.

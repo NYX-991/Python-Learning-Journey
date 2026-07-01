@@ -95,3 +95,24 @@ Day 5 of my Python learning journey.
 Created a custom turn_right() function and used it to solve a maze using the right-hand rule algorithm.
 
 Day 6 of my Python learning journey.
+
+# Hangman Game
+
+A beginner Python game where the player guesses a randomly selected word one letter at a time before running out of lives.
+
+## What I Learned
+
+- while loops
+- for loops
+- Conditional statements
+- Functions
+- Lists
+- String manipulation
+- The random module
+- Importing custom Python modules
+- Game logic
+- User input handling
+
+## Course Progress
+
+Day 7 of my Python learning journey

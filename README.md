@@ -116,3 +116,23 @@ A beginner Python game where the player guesses a randomly selected word one let
 ## Course Progress
 
 Day 7 of my Python learning journey
+
+# Caesar Cipher
+
+A beginner Python program that encrypts and decrypts messages using the Caesar Cipher by shifting letters based on a user-defined key.
+
+## What I Learned
+
+- Functions
+- while loops
+- Conditional statements
+- String manipulation
+- Lists
+- User input handling
+- The modulo operator
+- Importing custom Python modules
+- Basic encryption and decryption logic
+
+## Course Progress
+
+Day 8 of my Python learning journey

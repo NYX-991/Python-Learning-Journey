@@ -136,3 +136,23 @@ A beginner Python program that encrypts and decrypts messages using the Caesar C
 ## Course Progress
 
 Day 8 of my Python learning journey
+
+# Secret Auction
+
+A beginner Python program that simulates a secret auction by collecting bids from multiple participants and determining the highest bidder.
+
+## What I Learned
+
+- Dictionaries
+- Functions
+- while loops
+- Conditional statements
+- User input handling
+- Iterating through dictionaries
+- Finding the maximum value
+- Importing custom Python modules
+- Basic auction logic
+
+## Course Progress
+
+Day 9 of my Python learning journey

@@ -156,3 +156,23 @@ A beginner Python program that simulates a secret auction by collecting bids fro
 ## Course Progress
 
 Day 9 of my Python learning journey
+
+# Calculator
+
+A beginner Python program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program allows users to perform multiple calculations in a single session using reusable functions.
+
+## What I Learned
+
+* Functions with return values
+* Calling functions within functions
+* Dictionaries to store functions
+* while loops
+* Conditional statements
+* User input handling
+* Basic arithmetic operations
+* Code reusability and organization
+* Building a command-line calculator
+
+## Course Progress
+
+Day 10 of my Python learning journey

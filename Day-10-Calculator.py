@@ -51,3 +51,7 @@ def calculator():
 
 
 calculator()
+<<<<<<< HEAD
+=======
+
+>>>>>>> 95fb764 (Day 10 - Calculator)

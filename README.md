@@ -176,3 +176,24 @@ A beginner Python program that performs basic arithmetic operations such as addi
 ## Course Progress
 
 Day 10 of my Python learning journey
+
+# Blackjack
+
+A beginner Python program that recreates the classic Blackjack card game. The program allows the player to play against the computer, draw cards, calculate scores, and determine the winner based on standard Blackjack rules.
+
+## What I Learned
+
+* Functions with return values
+* Using lists to store and manage cards
+* Working with the random module
+* Conditional statements
+* while loops
+* User input handling
+* Handling Aces in Blackjack
+* Comparing player and computer scores
+* Breaking a larger problem into smaller functions
+* Building a command-line game
+
+## Course Progress
+
+Day 11 of my Python learning journey

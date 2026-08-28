@@ -197,3 +197,23 @@ A beginner Python program that recreates the classic Blackjack card game. The pr
 ## Course Progress
 
 Day 11 of my Python learning journey
+
+# Number Guessing Game
+
+A beginner Python program where the player tries to guess a randomly generated number between 1 and 100. The player can choose a difficulty level, which determines the number of attempts they get to guess the correct number.
+
+## What I Learned
+
+* Using functions with return values
+* Working with the random module
+* Using if/else conditions
+* Using while loops
+* Handling user input
+* Comparing numbers
+* Managing attempts
+* Breaking a larger problem into smaller functions
+* Building a command-line game
+
+## Course Progress
+
+Day 12 of my Python learning journey

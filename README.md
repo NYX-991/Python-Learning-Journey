@@ -217,3 +217,24 @@ A beginner Python program where the player tries to guess a randomly generated n
 ## Course Progress
 
 Day 12 of my Python learning journey
+
+# Higher Lower Game
+
+A beginner Python game where the player guesses which of two randomly selected accounts has more followers. The player continues making correct guesses to build a higher score, and the game ends when they make an incorrect guess.
+
+## What I Learned
+
+* Using functions with return values
+* Working with dictionaries and lists
+* Using the random module
+* Conditional statements
+* Using while loops
+* Comparing values
+* Handling user input
+* Keeping track of scores
+* Breaking a larger problem into smaller functions
+* Building a command-line game
+
+## Course Progress
+
+Day 14 of my Python learning journey
